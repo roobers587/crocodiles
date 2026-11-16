@@ -1,0 +1,19 @@
+body {
+      background: #f1ddc9;
+      colour: #333333;
+    font-family: "Playwrite AU SA Guides", sans-serif;
+}
+
+h1.h2 {
+       font-family: "Lora", serif;
+}
+
+section, header {
+                 width: 80%;
+                 max-width: 800px;
+                 margin: 0 auto;
+}
+h1 {font-size: 7.594rem;}
+h2 {font size: 2.250rem;}
+
+            
